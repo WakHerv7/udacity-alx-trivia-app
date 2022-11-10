@@ -1,5 +1,4 @@
 # TRIVIA API Endpoints Documentation
-Wakherv
 
 `GET '/categories'`
 
